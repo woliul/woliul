@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX & Frontend Development
 - 🌱 I’m currently learning iOS
 - 💞️ I’m looking to collaborate on frontend development
-- 📫 How to reach me  [Facebook](https://www.facebook.com/WoliulDesign/) OR [WhatsApp](https://api.whatsapp.com/message/N7COJ5DKSULTA1?autoload=1&app_absent=0)
+- 📫 How to reach me  [Facebook](https://www.facebook.com/WoliulDesign/) OR [WhatsApp](https://wa.me/c/8801672448002)
 
 <!---
 hmwoliul/hmwoliul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
