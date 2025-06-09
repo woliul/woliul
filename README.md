@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Md Woliul Hasan
+👋 Hi, I’m **Md Woliul Hasan**
 
-🎨 **Creative Technologist | Visual Storyteller | UI/UX Designer**
+🎨 Creative Technologist | Visual Storyteller | UI/UX Designer
 
 I'm a creative technologist and visual storyteller with **10+ years of experience** in:
 
@@ -12,14 +12,10 @@ I'm a creative technologist and visual storyteller with **10+ years of experienc
 🚀 **Featured in:** *Vogue Living, Unsplash, Tezos*  
 I love crafting digital experiences that **feel as good as they look**.
 
----
-
-### 🚧 Currently Exploring
+🚧 **Currently Exploring**
 - 📱 Learning **Flutter** to build interactive and beautiful mobile apps
 
----
-
-### 🤝 Let’s Collaborate
+🤝 **Let’s Collaborate**
 I’m open to projects involving:
 
 - Frontend Development  
@@ -28,17 +24,11 @@ I’m open to projects involving:
 
 Always excited to connect with fellow **creatives and developers**!
 
----
-
-### 📬 Contact Me
+📬 **Contact Me**
 - 💬 [Facebook](https://www.facebook.com/WoliulDesign/)  
 - 📱 [WhatsApp](https://wa.me/8801672448002)
 
----
-
-### 🔗 Explore My Work
+🔗 **Explore My Work**
 - 🎨 [Dribbble](https://dribbble.com/woliul)  
 - 💼 [LinkedIn](https://linkedin.com/in/woliul)  
 - 🌐 [Portfolio](https://woliul.com)
-
----
