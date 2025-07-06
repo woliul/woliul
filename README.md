@@ -19,7 +19,7 @@ I’m a visual storyteller with **10+ years of experience** in:
 Always excited to connect with fellow creatives and developers!
 
 📬 **Contact Me**  
-[Facebook](https://www.facebook.com/WoliulDesign/) • [WhatsApp](https://wa.me/8801672448002)
+[Facebook](https://www.facebook.com/WoliulDesign/) • [WhatsApp](https://wa.me/8801672448002) • [LinkedIn](https://linkedin.com/in/woliul)
 
 🔗 **My Work**  
-[Dribbble](https://dribbble.com/woliul) • [LinkedIn](https://linkedin.com/in/woliul) • [Portfolio](https://woliul.com)
+[Dribbble](https://dribbble.com/woliul) • [Unsplash](https://unsplash.com/collections/WiMiqXF0RwQ/%2B-3d-typography) • [Portfolio](https://woliul.com)
