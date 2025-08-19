@@ -11,16 +11,12 @@ My expertise includes:
 * Motion Graphics
 * UI/UX Design
 
----
-
 ### **Proof of Impact**
 
 My work has generated **25+ million views on Unsplash** and has been featured by top platforms:
 
 - **Featured in:** *Vogue Living, Figma, Notion, Medium, Buzzfeed, Tezos*
 - **Recognized by:** *Adobe Live*
-
----
 
 ### **Let's Connect!**
 
@@ -30,7 +26,6 @@ I'm always open to new challenges and collaborations on:
 * UI/UX Design
 
 Currently expanding my skills by learning **Flutter** to build more interactive mobile experiences.
-
 
 📬 **Contact Me**  
 [Facebook](https://www.facebook.com/WoliulDesign/) • [WhatsApp](https://wa.me/8801672448002) • [LinkedIn](https://linkedin.com/in/woliul)
