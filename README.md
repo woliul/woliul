@@ -6,14 +6,7 @@ I’m a creative professional with **10+ years of experience** specializing in c
 
 ### 🌟 **Featured & Recognized**
 
-My creative contributions have been recognized and featured by leading platforms, including:
-- **Adobe Live**
-- **Vogue Living**
-- **Figma**
-- **Buzzfeed**
-- **Notion**
-- **Tezos**
-- **Unsplash**
+My creative contributions have been recognized and featured by leading platforms, including: ***Adobe Live, Vogue Living, Figma, Buzzfeed, Notion, Tezos, Unsplash***
 
 ### 🛠️ **Skills & Expertise**
 
@@ -23,7 +16,7 @@ My creative contributions have been recognized and featured by leading platforms
 
 ### 🌱 **Currently Learning**
 
-I'm committed to continuous growth and am currently learning Flutter to build more interactive mobile experiences.
+I'm committed to continuous growth and am currently learning **Flutter** to build more interactive mobile experiences.
 
 ### 🤝 **Open to Work & Collaborations**
 
